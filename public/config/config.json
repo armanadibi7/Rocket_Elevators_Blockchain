@@ -1,18 +1,20 @@
 {
-  "CONTRACT_ADDRESS": "0x8b30D0C1B8708624eF48E00ACF50040eB0b782ff",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8b30d0c1b8708624ef48e00acf50040eb0b782ff",
+  "CONTRACT_ADDRESS": "0x76c442556DCA0250BB373067002eE1Ff4C9869d8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x76c442556dca0250bb373067002ee1ff4c9869d8",
   "NETWORK": {
-    "NAME": "Rocket",
+    "NAME": "RocketNFT",
     "SYMBOL": "REV",
+    "ERC_NAME": "LINK",
+    "ERC_SYMBOL": "LINK",
     "ID": 4
   },
-  "NFT_NAME": "Rocket Elevators",
+  "NFT_NAME": "RocketNFT",
   "SYMBOL": "REV",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rocketnft-3cpyotoah0",
   "SHOW_BACKGROUND": true
 }
