@@ -1239,7 +1239,7 @@ contract RocketElevator is ERC721Enumerable, Ownable {
   string public notRevealedUri;
   uint256 public cost = 0.01 ether;
   uint256 public maxSupply = 1000;
-  uint256 public maxMintAmount = 20;
+  uint256 public maxMintAmount = 10;
   uint256 public nftPerAddressLimit = 3;
   uint256 public saleStartDate = 1640350800;
   uint256 public revealDate = 1640595600;
